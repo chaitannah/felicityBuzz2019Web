@@ -1,0 +1,10 @@
+Requirements for the Website for Felicity Buzz 2019
+
+1. Landing page: preferably dynamic, but static is fine considering the time constraints. 
+2. Schedule: Page containing venues, timings and POCs for all events.
+3. Online Contests: Page containing all the winners for online events hosted as part of Buzz
+4. Social: Facebook and Instagram APIs to be utilised to integrate the social media content from Buzz directly with the site
+5. Check-In: Allow all students to check-in to events they are going to attend and also let organizers know when they have reached the venue.
+6. Locations: Possibly include a map of campus (static would be fine) to help people see at a glance where the events are going to be held.
+
+Possible frameworks/libraries to use: React, Bootstrap
